@@ -1,3 +1,9 @@
 welcome
+<<<<<<< HEAD
 
 added sample testttttt
+=======
+gergerg
+
+gerge
+>>>>>>> 73bb30af808ef8ddb9a7c6dde88a23ec5a2cda85
